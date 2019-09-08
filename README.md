@@ -34,6 +34,7 @@ $ npm install -g @angular/cli
 - Step 2: Next, let's make a new workspace (Kinda similar to create-react-app)
 
 (Hint: cd into a directory where you keep all your code, this will make a new folder with the name of learning-angular.)
+
 (Hint: 'ng' is the name of the command you run to access the Angular CLI (Similar to using node) 
 
 bash
@@ -43,8 +44,6 @@ $ ng new learning-angular
 
 - Step 3: cd into learning-angular and test the app
 
-(Hint: cd into a directory where you keep all your code, this will make a new folder with the name of learning-angular.) 
-
 bash
 ```
 $ cd learning-angular
@@ -53,7 +52,7 @@ $ ng serve --open
 
 ## TADA! That was it. Now we are going to add Material Design Components, animations and icons 
 
-let's go ahead and press 'ctrl-c' to stop the Angular server and continue to add to our template
+Stop your server- let's go ahead and press 'ctrl-c' to stop the Angular server and continue to add to our template
 
 - Step 1: make sure you are in the learning-angular folder. Then go ahead and open this folder in VSCode. We will be changing some of the code in a couple of the files. Plus you need to take a look at the app structure because it is different from React in this aspect.
 - Step 1b. Install Material Design Components
